@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Gonçalves</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Get Together app](www.get-together.me)
+- 🔭 I’m currently working on (www.get-together.me)
 
 - 🏫 I've studied at Le Wagon - Rio de Janeiro. 
 
