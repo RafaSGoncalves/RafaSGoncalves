@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rafael Gonçalves</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- Visit my Portfolio Webpage on (https://portfolio-webpage-kappa.vercel.app/)
+
 - 🔭 I’m currently working on (www.get-together.me)
 
-- 🏫 I've studied at Le Wagon - Rio de Janeiro. 
+- 🏫 I've studied at Le Wagon Bootcamp - Rio de Janeiro. 
 
-- 🌱 I’m currently learning **React and Vue**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript and Ruby**
+- 💬 Ask me about **JavaScript and React**
 
-- 📫 How to reach me **rafaelnity@yahoo.com.br**
+- 📫 How to reach me **advrafaelsgoncalves@gmail.com.br**
 
-- 🧐 I'm interested in coding, books and football.
+- 🧐 I'm interested in coding, music, books and football.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
