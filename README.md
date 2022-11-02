@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript and React**
 
-- 📫 How to reach me **advrafaelsgoncalves@gmail.com.br**
+- 📫 How to reach me **advrafaelsgoncalves@gmail.com**
 
 - 🧐 I'm interested in coding, music, books and football.
 
