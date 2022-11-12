@@ -7,9 +7,9 @@
 
 - 🏫 I've studied at Le Wagon Bootcamp - Rio de Janeiro. 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently studying **React** | **Angular**
 
-- 💬 Ask me about **JavaScript and React**
+- 💬 Ask me about **JavaScript, React, Angular**
 
 - 📫 How to reach me **advrafaelsgoncalves@gmail.com**
 
