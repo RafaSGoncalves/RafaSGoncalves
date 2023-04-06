@@ -3,7 +3,7 @@
 
 - Visit my Portfolio Webpage on (https://portfolio-webpage-kappa.vercel.app/)
 
-- 🔭 I’m currently working at Eco Sistemas.
+- 🔭 I’m currently working at Eco Sistemas as a Frontend Developer.
 
 - 🏫 I've studied at Le Wagon Bootcamp - Rio de Janeiro. 
 
