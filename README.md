@@ -3,13 +3,11 @@
 
 - Visit my Portfolio Webpage on (https://portfolio-webpage-kappa.vercel.app/)
 
-- 🔭 I’m currently working on (www.get-together.me)
+- 🔭 I’m currently working at Eco Sistemas.
 
 - 🏫 I've studied at Le Wagon Bootcamp - Rio de Janeiro. 
 
-- 🌱 I’m currently studying **React** | **Angular**
-
-- 💬 Ask me about **JavaScript, React, Angular**
+- 💬 Ask me about **JavaScript, React, Angular, C#, .NET**
 
 - 📫 How to reach me **advrafaelsgoncalves@gmail.com**
 
